@@ -32,7 +32,6 @@ Phishing is the most popular form of social engineering and can be leveraged to 
  </ul
 
 <h2> Exploratory Data Analysis </h2>
-
 <h3> This plot shows that phishing emails have generalized Salutation  </h3>
 <img width="330" alt="image" src="https://user-images.githubusercontent.com/39126672/158035758-efce484c-8b3a-4391-b850-66a5ce3fe925.png">
 <h3> This plot shows the distribution of second person pronouns in the emails  </h3>
