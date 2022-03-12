@@ -9,10 +9,30 @@ Phishing is the most popular form of social engineering and can be leveraged to 
 <ul>
   <li>Enron Corpus: Non-Phishing Emails</li>
   <li>Nazario Corpus: Phishing Emails</li>
+  <br>
   <body> Data Wrangled from the publicly available corpora and parsed to the csv format </body>
+ </ul>
+<h2> Analysis Levels </h2>
+<ul>
+  <li>Link and Domain</li>
+  <ol>
+  <li>Fradulent Domain</li>
+  <li>Malicious URL</li>
+   <li>Whitelisted URLS</li>
+  </ol>
+  <li>Content</li>
+   <ol>
+  <li>Generalized Salutation</li>
+  <li>Call for Action</li>
+  </ol>
+   <li>MetaData</li>
+  <ol>
+  <li>Email Abbreviations</li>  
+  </ol>
+ </ul
 
-  
-</ul>
+<h2> Exploratory Data Analysis </h2>
+
 <h3> This plot shows that phishing emails have generalized Salutation  </h3>
 <img width="330" alt="image" src="https://user-images.githubusercontent.com/39126672/158035758-efce484c-8b3a-4391-b850-66a5ce3fe925.png">
 <h3> This plot shows the distribution of second person pronouns in the emails  </h3>
