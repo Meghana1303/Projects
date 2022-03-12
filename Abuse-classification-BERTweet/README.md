@@ -7,7 +7,6 @@ In this paper we compare our results with Waseem et al. and build upon their met
 </body>
 
 <h2> Proposed Architecture </h2>
-<img width="301" alt="image" src="https://user-images.githubusercontent.com/39126672/158036464-f32723a2-aab1-4d2d-bf2d-efdb76c6df49.png">
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/39126672/158036659-0fb46feb-2a6b-4317-a464-2b98e0bd4a48.png">
 
 
