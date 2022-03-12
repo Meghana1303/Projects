@@ -1,1 +1,8 @@
 
+<h1> Problem Statement </h1>
+<body>  
+The project aims to study US Diabetes Readmissions and predict them for upcoming patient cases. We aim to investigate the dataset containing the various patient records and whether they had to be readmitted in the coming days. We use oversampling techniques to solve the imbalance of classes and apply various classification techniques. The metric for success is based on the recall rate since a misclassification of a critical case has more effects than otherwise.
+</body>
+
+<h1> Conclusion </h1>
+Our project studied the dataset provided by the Virginia Commonwealth University, that describes diabetic patient data from 1999-2008. We specifically aimed to build a model using classification techniques that we learned during the coursework, so that we are able to classify patient information given as being readmitted or not readmitted. We focused on readmission because, diabetes being a precursor to many diseases cannot be left untreated, and providing better care to the patient may result in healthier society and will also reduce the per capita spending on healthcare. Since every patient is different, the care given to them also needs to be different and so we aimed to provide a better feedback system so that better care can be given during the hospital stay and readmission of patient within 30 days is avoided. We built our models on DecisionTree, AdaBoostClassifier, BaggingClassifier, RandomForrest and ANN. The proposed methodology, used oversampling technique on the misclassified readmission target label, and then achieved better recall rates when the above mentioned models were run. The model achieved a rise in 13%-17% of the recall of readmissions in 30 days.
