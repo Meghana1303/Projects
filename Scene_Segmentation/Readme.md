@@ -1,1 +1,2 @@
 
+The project aims to investigate the use of convolutional neural networks for unsupervised image segmentation. We aim to apply a CNN-based approach for improving feature extraction and clustering functions so that pixels with comparable features, spatially continuous pixels be allocated to the same label, and the number of unique clusters can be increased![image](https://user-images.githubusercontent.com/39126672/188291261-9a7b630b-8a69-44d1-ac46-8a4a37bfb7d0.png)
